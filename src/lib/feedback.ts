@@ -28,7 +28,7 @@ export type FeedbackInput = {
   pageContext?: string;
 };
 
-const LOCAL_FEEDBACK_KEY = "prajasetu_local_feedback";
+const LOCAL_FEEDBACK_KEY = "praja_rakshak_local_feedback";
 
 function saveLocalFeedback(input: FeedbackInput & { message: string }) {
   if (typeof window === "undefined") return;

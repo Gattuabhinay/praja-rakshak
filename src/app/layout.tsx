@@ -30,10 +30,11 @@ export const metadata: Metadata = {
     "Praja Rakshak: Clean Up with vision AI for waste segregation, Speak Up with AI complaint drafting for bribery, FIR refusal, and corruption — filed on official Telangana portals.",
   keywords: [
     "Praja Rakshak",
-    "PrajaRakshak",
     "Telangana",
     "social impact",
     "waste segregation",
+    "Clean Up",
+    "Speak Up",
     "ACB",
     "GHMC",
   ],

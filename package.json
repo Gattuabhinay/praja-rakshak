@@ -1,8 +1,8 @@
 {
-  "name": "prajasetu-telangana",
+  "name": "praja-rakshak",
   "version": "1.0.0",
   "private": true,
-  "description": "PrajaSetu — AI waste segregation and Telangana civic complaint guide for Idea2Impact 2026",
+  "description": "Praja Rakshak — AI waste segregation and Telangana civic complaint guide for Idea2Impact 2026",
   "scripts": {
     "dev": "next dev --port 5050",
     "build": "next build",

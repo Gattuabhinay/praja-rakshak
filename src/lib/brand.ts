@@ -1,7 +1,7 @@
 /** Single source of truth for product positioning */
 export const BRAND = {
   name: "Praja Rakshak",
-  shortName: "PrajaRakshak",
+  shortName: "Praja Rakshak",
   logoSrc: "/brand/praja-rakshak-logo.png",
   telanganaEmblemSrc: "/brand/telangana-emblem.png",
   theme: "Theme 1 · Sustainability & Social Impact",

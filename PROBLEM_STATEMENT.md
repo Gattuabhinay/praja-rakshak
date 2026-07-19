@@ -1,10 +1,10 @@
-# PrajaSetu — Problem Statement  
+# Praja Rakshak — Problem Statement  
 **Idea2Impact Online Hackathon 2026**  
 **Theme:** Theme 1 · Sustainability & Social Impact  
 **State:** Telangana
 
 ## The clear product wrap
-**PrajaSetu = Clean Up + Speak Up**
+**Praja Rakshak = Clean Up + Speak Up**
 
 1. **Clean Up** — AI looks at a waste photo and tells the correct bin.  
 2. **Speak Up** — AI drafts a civic complaint; citizen files it on an official portal.  
@@ -22,11 +22,11 @@ Tips apps don’t see waste. Chatbots don’t open official channels. Portals ex
 
 ## AI approach
 - Vision AI for waste classification (wet / dry / hazardous / e-waste)  
-- Text AI for formal complaint drafting across waste, police bribery, FIR refusal, govt corruption, and social/legal cases  
-- Redirects to GHMC, TSPCB, ACB, Lokayukta, Police, CPGRAMS  
+- Text AI for formal complaint drafting across waste, police bribery, FIR refusal, govt corruption, women safety, and social/legal cases  
+- Redirects to GHMC, TSPCB, ACB, Lokayukta, Police, CPGRAMS, Women Safety channels  
 
 ## Impact
 Cleaner communities + stronger civic access through lawful official filing.
 
 ## Boundary
-No fake FIR/case IDs. PrajaSetu drafts and redirects only.
+No fake FIR/case IDs. Praja Rakshak drafts and redirects only.
