@@ -51,11 +51,13 @@ export const metadata: Metadata = {
   creator: BRAND.name,
   icons: {
     icon: [
-      { url: "/brand/praja-rakshak-logo.png", type: "image/png" },
-      { url: "/icon.png", type: "image/png" },
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/icon", type: "image/png" },
+      { url: "/favicon-32.png", sizes: "32x32", type: "image/png" },
+      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
     ],
-    shortcut: ["/brand/praja-rakshak-logo.png"],
-    apple: [{ url: "/brand/telangana-emblem.png", type: "image/png" }],
+    shortcut: ["/favicon.ico"],
+    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
   },
   openGraph: {
     type: "website",
