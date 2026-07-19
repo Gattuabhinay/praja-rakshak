@@ -14,10 +14,6 @@
 Demo login (if signup email is rate-limited):  
 `demo@prajarakshak.ts` / `Telangana@2026`
 
-> **localhost is NOT the submission link.**  
-> `http://localhost:5050` only works on *your own computer* while coding.  
-> Judges / admins must open the **Vercel** link above.
-
 ---
 
 One platform for Telangana citizens:
@@ -41,27 +37,6 @@ One platform for Telangana citizens:
 - OpenRouter / OpenAI / Gemini / Claude (BYOK + admin fallback)  
 - Deployed on Vercel  
 
-## Setup (local — developers only)
-Only if you want to run code on your laptop:
-
-```bash
-npm install
-cp .env.example .env.local
-```
-
-Put keys in `.env.local` (never commit this file):
-```env
-NEXT_PUBLIC_SUPABASE_URL=...
-NEXT_PUBLIC_SUPABASE_ANON_KEY=...
-OPENROUTER_API_KEY=...
-```
-
-```bash
-npm run dev
-```
-
-Then open **http://localhost:5050** on that same PC only.
-
 ## Deploy
 Already live: **https://praja-rakshak.vercel.app**  
 Env vars are set in the Vercel project dashboard (not in the frontend bundle).
@@ -71,6 +46,3 @@ Env vars are set in the Vercel project dashboard (not in the frontend bundle).
 - ACB Telangana (1064), Lokayukta, Telangana Police  
 - CPGRAMS, Cybercrime, Women Safety / SHE Teams  
 - Official WhatsApp channels where applicable  
-
-## Honest product boundary
-Praja Rakshak **drafts and redirects**. It does **not** invent case IDs or claim to file inside government systems. Official filing happens on government portals.
