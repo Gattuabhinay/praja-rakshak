@@ -1,9 +1,5 @@
 # Praja Rakshak · Telangana
 
-**Idea2Impact Online Hackathon 2026**  
-**Theme:** Sustainability & Social Impact  
-**Flow:** Clean Up + Speak Up → Official portals  
-**Tagline:** Clean up. Speak up. Act through official portals.
 
 ## Live app (use this for judges)
 
